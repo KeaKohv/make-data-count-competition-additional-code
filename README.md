@@ -1,2 +1,5 @@
-# make-data-count-competition-additional-code
-Code to recreate the datasets used in 1st place solutuon for Make Data Count Competiton 2025
+# Additional material for Make Data Count competition
+
+The code for the solution is available here: https://www.kaggle.com/code/keakohv/mdc-1st-place-solution-catboost-and-qwen
+
+Most datasets used as input in the solution have recreation code in the Kaggle dataset description.
